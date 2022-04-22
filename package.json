@@ -3,17 +3,17 @@
   "version": "1.1.0",
   "description": "## Скрытые файлы",
   "main": "index.js",
-  "homepage": "https://github.com/MyagkiyBogdan/goit-js-hw-08",
+  "homepage": "https://MyagkiyBogdan.github.io/goit-js-hw-08",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /MyagkiyBogdan/goit-js-hw-08/"
+    "build": "parcel build src/*.html --public-url /goit-js-hw-08/"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/MyagkiyBogdan/goit-js-hw-08"
   },
   "keywords": [],
-  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
+  "author": "Myagkiy Bogdan <myagkiybogdan@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/goitacademy/parcel-project-template/issues"
